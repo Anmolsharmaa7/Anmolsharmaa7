@@ -23,7 +23,7 @@ Pronouns: ["he", "him"]
 Fun_fact: "I create hyper-realistic art when not coding!"
 
 Currently_learning: ["Full-Stack", "Frontend", "AI Ethics"]
-Hobbies: ["Photography", "Tech Blogging"]
+Hobbies: ["Photography"]
 ```
 
 <div align="center">
