@@ -1,4 +1,4 @@
-# 💫 Hi 👋, I'm Anmol Sharma
+#  Hi 👋, I'm Anmol Sharma
 <div align="center">
   <img src="https://readme-typing-svg.herokuapp.com?font=JetBrains+Mono&weight=600&size=35&duration=3000&pause=1000&color=00D9FF&center=true&vCenter=true&multiline=true&width=800&height=100&lines=Full-Stack+Developer;Frontend+Engineering" alt="Typing SVG" />
 </div>
