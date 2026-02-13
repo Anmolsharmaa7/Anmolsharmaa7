@@ -56,7 +56,16 @@ Hobbies: ["Photography"]
     <img src="https://user-images.githubusercontent.com/74038190/212257460-738ff738-247f-4445-a718-cdd0ca76e2db.gif" width="100">
     <img src="https://user-images.githubusercontent.com/74038190/212257467-871d32b7-e401-42e8-a166-fcfd7baa4c6b.gif" width="100">
   <br>
-    <img src="https://skillicons.dev/icons?i=nodejs,git,github&theme=dark" width="200">
+  <p align="center">
+  <img src="https://cdn-icons-png.flaticon.com/512/25/25231.png" width="120" style="animation: spin 4s linear infinite;">
+</p>
+
+<style>
+@keyframes spin {
+  0% { transform: rotate(0deg); }
+  100% { transform: rotate(360deg); }
+}
+</style>
 </div>
 
 ---
