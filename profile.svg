@@ -78,30 +78,30 @@
       <line x1="300" y1="256" x2="820" y2="256" stroke="#21262d" stroke-width="1"/>
 
       <text x="300" y="280" fill="#79c0ff">Core.Lang</text>
-      <text x="820" y="280" fill="#e6edf3" text-anchor="end" font-weight="600">Language, Language, Language</text>
+      <text x="820" y="280" fill="#e6edf3" text-anchor="end" font-weight="600">Java, JavaScript</text>
       <text x="380" y="280" fill="#30363d">..........................................................................</text>
 
       <text x="300" y="302" fill="#79c0ff">Core.Frontend</text>
-      <text x="820" y="302" fill="#e6edf3" text-anchor="end" font-weight="600">Framework</text>
+      <text x="820" y="302" fill="#e6edf3" text-anchor="end" font-weight="600">React.js, Tailwind CSS</text>
       <text x="415" y="302" fill="#30363d">..........................................................................</text>
 
       <text x="300" y="324" fill="#79c0ff">Core.Backend</text>
-      <text x="820" y="324" fill="#e6edf3" text-anchor="end" font-weight="600">Framework</text>
+      <text x="820" y="324" fill="#e6edf3" text-anchor="end" font-weight="600">Node.js, Express.js</text>
       <text x="405" y="324" fill="#30363d">..........................................................................</text>
 
       <text x="300" y="346" fill="#79c0ff">Core.Database</text>
-      <text x="820" y="346" fill="#e6edf3" text-anchor="end" font-weight="600">Database, Database</text>
+      <text x="820" y="346" fill="#e6edf3" text-anchor="end" font-weight="600">MongoDB, MySQL</text>
       <text x="420" y="346" fill="#30363d">..........................................................................</text>
 
       <line x1="300" y1="362" x2="820" y2="362" stroke="#21262d" stroke-width="1"/>
-      <text x="300" y="382" fill="#6e7681" font-size="11" letter-spacing="1">— CONTACT ————————————————————————————</text>
+      <text x="300" y="382" fill="#6e7681" font-size="11" letter-spacing="1">— CONTACT ———————————————————————————</text>
 
       <text x="300" y="404" fill="#79c0ff">Grid.Mail</text>
-      <text x="820" y="404" fill="#e6edf3" text-anchor="end" font-weight="600">your.email@example.com</text>
+      <text x="820" y="404" fill="#e6edf3" text-anchor="end" font-weight="600">anmolsharmaa0811@gmail.com</text>
       <text x="365" y="404" fill="#30363d">..........................................................................</text>
 
       <text x="300" y="426" fill="#79c0ff">Grid.GitHub</text>
-      <text x="820" y="426" fill="#e6edf3" text-anchor="end" font-weight="600">@yourusername</text>
+      <text x="820" y="426" fill="#e6edf3" text-anchor="end" font-weight="600">@Anmolsharmaa7</text>
       <text x="395" y="426" fill="#30363d">..........................................................................</text>
 
       <text x="300" y="448" fill="#79c0ff">Grid.LinkedIn</text>
