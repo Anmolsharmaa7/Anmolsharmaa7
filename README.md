@@ -1,4 +1,4 @@
-```html
+
 <div align="center">
 
 <!-- ANIMATED HEADER -->
@@ -193,4 +193,3 @@ A project focused on improving civic issue reporting and management through mode
 <sub>Built with 💜 by Anmol Sharma</sub>
 
 </div>
-```
