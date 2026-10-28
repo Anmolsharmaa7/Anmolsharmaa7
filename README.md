@@ -1,3 +1,4 @@
+```html
 <div align="center">
 
 <!-- ANIMATED HEADER -->
@@ -135,33 +136,50 @@ A project focused on improving civic issue reporting and management through mode
 
 <div align="center">
 
----
-
-<div align="center">
-
 ## 📈 Contribution Activity
 
-<!-- GitHub Activity Graph -->
-<a href="https://github.com/Anmolsharmaa7">
+<br>
+
+<a href="https://github.com/Anmolsharmaa7?tab=overview">
   <img
-    src="https://github-readme-activity-graph.vercel.app/graph?username=Anmolsharmaa7&bg_color=0D1117&color=AA9BEF&line=AA9BEF&point=FFFFFF&area=true&area_color=654EA3&hide_border=true&custom_title=Anmol's%20Contribution%20Graph"
-    width="100%"
-    alt="Anmol Sharma GitHub Contribution Graph"
+    src="https://img.shields.io/badge/GitHub-Contribution%20Activity-AA9BEF?style=for-the-badge&logo=github&logoColor=white"
+    alt="GitHub Contribution Activity"
   />
 </a>
 
 <br><br>
 
-<!-- Developer Quote -->
-<img
-  src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight"
-  width="75%"
-  alt="Developer Quote"
-/>
+### 💻 Code. Learn. Build. Repeat.
+
+<p>
+  Exploring new technologies, solving problems, and building
+  meaningful projects — one commit at a time.
+</p>
+
+<br>
+
+<a href="https://github.com/Anmolsharmaa7?tab=repositories">
+  <img
+    src="https://img.shields.io/badge/Explore%20My%20Repositories-0D1117?style=for-the-badge&logo=github&logoColor=AA9BEF"
+    alt="Explore Repositories"
+  />
+</a>
+
+&nbsp;
+
+<a href="https://github.com/Anmolsharmaa7?tab=overview">
+  <img
+    src="https://img.shields.io/badge/View%20Contributions-654EA3?style=for-the-badge&logo=github&logoColor=white"
+    alt="View Contributions"
+  />
+</a>
+
+<br><br>
 
 </div>
 
 ---
+
 <div align="center">
 
 ### 💜 Thanks for visiting!
@@ -175,3 +193,4 @@ A project focused on improving civic issue reporting and management through mode
 <sub>Built with 💜 by Anmol Sharma</sub>
 
 </div>
+```
