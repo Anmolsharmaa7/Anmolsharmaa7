@@ -139,23 +139,25 @@ A project focused on improving civic issue reporting and management through mode
 
 <div align="center">
 
-## 🐍 Contribution Activity
+## 📈 Contribution Activity
 
-<picture>
-  <source
-    media="(prefers-color-scheme: dark)"
-    srcset="https://raw.githubusercontent.com/Anmolsharmaa7/Anmolsharmaa7/output/github-contribution-grid-snake-dark.svg"
-  />
-  <source
-    media="(prefers-color-scheme: light)"
-    srcset="https://raw.githubusercontent.com/Anmolsharmaa7/Anmolsharmaa7/output/github-contribution-grid-snake.svg"
-  />
+<!-- GitHub Activity Graph -->
+<a href="https://github.com/Anmolsharmaa7">
   <img
-    alt="GitHub Contribution Snake"
-    src="https://raw.githubusercontent.com/Anmolsharmaa7/Anmolsharmaa7/output/github-contribution-grid-snake-dark.svg"
+    src="https://github-readme-activity-graph.vercel.app/graph?username=Anmolsharmaa7&bg_color=0D1117&color=AA9BEF&line=AA9BEF&point=FFFFFF&area=true&area_color=654EA3&hide_border=true&custom_title=Anmol's%20Contribution%20Graph"
     width="100%"
+    alt="Anmol Sharma GitHub Contribution Graph"
   />
-</picture>
+</a>
+
+<br><br>
+
+<!-- Developer Quote -->
+<img
+  src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight"
+  width="75%"
+  alt="Developer Quote"
+/>
 
 </div>
 
